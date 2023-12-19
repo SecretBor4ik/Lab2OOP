@@ -1,0 +1,14 @@
+C:\Users\Daniil\source\repos\Lab2C#\bin\Debug\net7.0\Lab2C#.exe
+C:\Users\Daniil\source\repos\Lab2C#\bin\Debug\net7.0\Lab2C#.deps.json
+C:\Users\Daniil\source\repos\Lab2C#\bin\Debug\net7.0\Lab2C#.runtimeconfig.json
+C:\Users\Daniil\source\repos\Lab2C#\bin\Debug\net7.0\Lab2C#.dll
+C:\Users\Daniil\source\repos\Lab2C#\bin\Debug\net7.0\Lab2C#.pdb
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\Lab2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\Lab2C#.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\Lab2C#.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\Lab2C#.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\Lab2C#.dll
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\refint\Lab2C#.dll
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\Lab2C#.pdb
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\Lab2C#.genruntimeconfig.cache
+C:\Users\Daniil\source\repos\Lab2C#\obj\Debug\net7.0\ref\Lab2C#.dll
